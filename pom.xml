@@ -75,7 +75,7 @@
 			<id>enforce</id>
 			<configuration>
 			    <rules>
-				<DependencyConvergence />
+				<DependencyConvergence/>
 			    </rules>
 			</configuration>
 			<goals>
@@ -169,7 +169,7 @@
 					</goals>
 				    </pluginExecutionFilter>
 				    <action>
-					<ignore />
+					<ignore/>
 				    </action>
 				</pluginExecution>
 				<pluginExecution>
@@ -184,7 +184,7 @@
 					</goals>
 				    </pluginExecutionFilter>
 				    <action>
-					<ignore />
+					<ignore/>
 				    </action>
 				</pluginExecution>
 			    </pluginExecutions>
@@ -235,7 +235,7 @@
 	<dependency>
 	    <groupId>org.slf4j</groupId>
 	    <artifactId>jcl-over-slf4j</artifactId>
-	    <version>1.7.12</version>
+	    <version>1.7.29</version>
 	    <scope>runtime</scope>
 	</dependency>
 	<dependency>
